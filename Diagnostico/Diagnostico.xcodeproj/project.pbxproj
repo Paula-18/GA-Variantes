@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		38E72440279686E5009D0421 /* DetallesListaController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E7243F279686E5009D0421 /* DetallesListaController.swift */; };
 		3D903B5A2796243C0020A7F2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D903B592796243C0020A7F2 /* AppDelegate.swift */; };
 		3D903B5C2796243C0020A7F2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D903B5B2796243C0020A7F2 /* ViewController.swift */; };
 		3D903B5F2796243C0020A7F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D903B5D2796243C0020A7F2 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		38E7243F279686E5009D0421 /* DetallesListaController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetallesListaController.swift; sourceTree = "<group>"; };
 		3D903B562796243B0020A7F2 /* Diagnostico.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Diagnostico.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D903B592796243C0020A7F2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3D903B5B2796243C0020A7F2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				3D903B5D2796243C0020A7F2 /* Main.storyboard */,
 				3D903B602796243E0020A7F2 /* Assets.xcassets */,
 				3D903B622796243E0020A7F2 /* LaunchScreen.storyboard */,
+				38E7243F279686E5009D0421 /* DetallesListaController.swift */,
 				3D903B6B27962C870020A7F2 /* Lista.swift */,
 				3D903B6D27962CCB0020A7F2 /* CeldaListaController.swift */,
 				3D903B652796243E0020A7F2 /* Info.plist */,
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				38E72440279686E5009D0421 /* DetallesListaController.swift in Sources */,
 				3D903B5C2796243C0020A7F2 /* ViewController.swift in Sources */,
 				3D903B5A2796243C0020A7F2 /* AppDelegate.swift in Sources */,
 				3D903B6C27962C870020A7F2 /* Lista.swift in Sources */,

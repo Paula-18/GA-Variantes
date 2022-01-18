@@ -10,13 +10,15 @@ import Foundation
 
 class Lista {
     
+    var description = ""
     var lineage = ""
     var date = ""
     var designated = ""
     var assigned = ""
     var name = ""
     
-    init(lineage: String, date: String, designated: String, assigned: String, name: String) {
+    init(_ description: String,_ lineage: String, _ date: String, _ designated: String, _ assigned: String, _ name: String) {
+        self.description = description
         self.lineage = lineage
         self.date = date
         self.designated = designated
